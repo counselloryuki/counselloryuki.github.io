@@ -110,7 +110,20 @@ footer:
       icon: "fab fa-discord"
       url: "https://discord.com/"
 
+collections:
+  colleges:
+    output: true
+    permalink: /:collection/:path/
+
 defaults:
+  # _portfolio
+  - scope:
+      path: ""
+      type: colleges
+    values:
+      layout: single
+      author_profile: true
+      share: true
   # _posts
   - scope:
       path: ""

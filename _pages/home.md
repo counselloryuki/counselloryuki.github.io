@@ -10,25 +10,25 @@ excerpt: >
 feature_row:
   - image_path: /assets/images/graduation.jpg
     alt: "College applications"
-    title: "College Applications"
-    excerpt: "Everything from basic to the end, we support you"
-    url: "/docs/configuration/"
+    title: "College applications"
+    excerpt: "Everything from basic to the end, your applications are in good hands"
+    url: "/colleges/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/planner.jpg
-    alt: "Courses etc"
-    title: "Courses etc"
+    alt: "Courses, etc"
+    title: "Courses, etc"
     excerpt: "Change schedule or classes planing? right here!"
-    url: "/docs/layouts/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"
+    url: "#"
+    btn_class: "btn--warning"
+    btn_label: "Work in progress"
   - image_path: /assets/images/form.jpg
     alt: "Other forms"
     title: "Other forms"
     excerpt: "All other forms for other circumstances"
-    url: "/docs/license/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"      
+    url: "#"
+    btn_class: "btn--warning"
+    btn_label: "Work in progress"      
 ---
 
 {% include feature_row %}
