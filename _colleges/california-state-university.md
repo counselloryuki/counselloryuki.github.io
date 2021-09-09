@@ -1,5 +1,6 @@
 ---
 title: "California State University (CSU)"
+display_order: 2
 excerpt: "Largest four-year public university system with affordable expanses"
 header:
   teaser: /assets/images/csu.svg

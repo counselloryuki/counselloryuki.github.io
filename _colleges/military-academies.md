@@ -1,5 +1,6 @@
 ---
 title: "Military Academies"
+display_order: 4
 excerpt: "Discover the career and opportunities you never knew existed."
 header:
   teaser: /assets/images/dod-logo.png

@@ -1,5 +1,6 @@
 ---
 title: "California Community Colleges (CCC)"
+display_order: 5
 excerpt: "Affordable colleges with great teaching faculty and transfer opportunities"
 header:
   teaser: /assets/images/ccc-logo.svg

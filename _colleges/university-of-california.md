@@ -1,5 +1,6 @@
 ---
 title: "The University of California (UC)"
+display_order: 1
 excerpt: "Prestigious public research university system"
 header:
   teaser: /assets/images/uc.svg

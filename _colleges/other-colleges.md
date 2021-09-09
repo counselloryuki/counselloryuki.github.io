@@ -1,5 +1,6 @@
 ---
 title: "Other colleges (Private, Independent & Out of State)"
+display_order: 3
 excerpt: "Exploring the outside world"
 header:
   teaser: /assets/images/other-colleges.jpg
