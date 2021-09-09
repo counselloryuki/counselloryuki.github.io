@@ -110,20 +110,29 @@ footer:
       icon: "fab fa-discord"
       url: "https://discord.com/"
 
+comments:
+  provider: "disqus"
+  disqus:
+    shortname: "counselloryuki"
+
 collections:
   colleges:
     output: true
     permalink: /:collection/:path/
 
 defaults:
-  # _portfolio
+  # _colleges
   - scope:
       path: ""
       type: colleges
     values:
       layout: single
       author_profile: false
+      comments: true
       share: true
+      sidebar:
+        nav: college-list
+        title: Shortcuts
   # _posts
   - scope:
       path: ""

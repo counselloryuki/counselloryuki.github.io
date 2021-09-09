@@ -4,9 +4,6 @@ display_order: 4
 excerpt: "Discover the career and opportunities you never knew existed."
 header:
   teaser: /assets/images/dod-logo.png
-sidebar:
-  title: "Overview"
-  nav: college-list
 ---
 ![Many college flags](/assets/images/military-academy.jpg){:width="50%"}
 ### Introduction
@@ -16,4 +13,4 @@ US will pay 4 years of tuition/room/board for your future service. In addition t
 We will help for your applications.
 
 ### Apply
-The OMI High School ETS Code is 053972.
+The OMI ETS Code is 053972.

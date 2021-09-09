@@ -4,9 +4,6 @@ display_order: 3
 excerpt: "Exploring the outside world"
 header:
   teaser: /assets/images/other-colleges.jpg
-sidebar:
-  title: "Overview"
-  nav: college-list
 ---
 ![Many college flags](/assets/images/other-colleges.jpg){:width="40%"}
 ### Introduction
