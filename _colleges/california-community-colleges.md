@@ -4,6 +4,9 @@ display_order: 5
 excerpt: "Affordable colleges with great teaching faculty and transfer opportunities"
 header:
   teaser: /assets/images/ccc-logo.svg
+sidebar:
+  title: "Overview"
+  nav: college-list
 ---
 [![California Community Colleges the in Bay area](/assets/images/ccc-campuses.jpg){:width="50%"}](https://upload.wikimedia.org/wikipedia/en/3/39/Student_Senate_Regions_Map.pdf){:target="_blank"}
 ### Introduction

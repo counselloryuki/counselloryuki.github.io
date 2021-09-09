@@ -4,6 +4,9 @@ display_order: 1
 excerpt: "Prestigious public research university system"
 header:
   teaser: /assets/images/uc.svg
+sidebar:
+  title: "Overview"
+  nav: college-list
 ---
 ![UC campuses and labs](/assets/images/uc-campuses.png){:width="40%"}
 ### Introduction

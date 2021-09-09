@@ -4,6 +4,9 @@ display_order: 4
 excerpt: "Discover the career and opportunities you never knew existed."
 header:
   teaser: /assets/images/dod-logo.png
+sidebar:
+  title: "Overview"
+  nav: college-list
 ---
 ![Many college flags](/assets/images/military-academy.jpg){:width="50%"}
 ### Introduction

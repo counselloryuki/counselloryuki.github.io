@@ -9,3 +9,41 @@ main:
     url: /categories/
   - title: "Tags"
     url: /tags/
+
+college-list:
+  - title: "Univ of Cal"
+    children:
+      - title: "Intro"
+        url: /colleges/university-of-california/#introduction
+      - title: "Deadline"
+        url: /colleges/university-of-california/#deadline
+      - title: "Apply"
+        url: /colleges/university-of-california/#apply
+  - title: "Cal State"
+    children:
+      - title: "Intro"
+        url: /colleges/california-state-university/#introduction
+      - title: "Deadline"
+        url: /colleges/california-state-university/#deadline
+      - title: "Apply"
+        url: /colleges/california-state-university/#apply
+  - title: "Other colleges"
+    children:
+      - title: "Intro"
+        url: /colleges/other-colleges/#introduction
+      - title: "Deadline"
+        url: /colleges/other-colleges/#deadline
+      - title: "Apply"
+        url: /colleges/other-colleges/#apply
+  - title: "Comm colleges"
+    children:
+      - title: "Intro"
+        url: /colleges/california-community-colleges/#introduction
+      - title: "Deadline"
+        url: /colleges/california-community-colleges/#deadline
+      - title: "Apply"
+        url: /colleges/california-community-colleges/#apply
+  - title: "Military"
+    children:
+      - title: "Intro"
+        url: /colleges/military-academies/#introduction
