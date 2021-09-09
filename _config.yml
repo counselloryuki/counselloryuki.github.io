@@ -13,25 +13,30 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
-email:
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-twitter_username: username
-github_username: username
-minimal_mistakes_skin: default
+title: Counseling Resources
+subtitle: To infinity and beyond
+title_separator: "@"
+name: Sandy Lin
+email: counselloryuki@gmail.com
+description: Some collections of counseling resources, including college, career and school counseling materials for you to explore possibilities.
+# twitter_username: username
+github_username: counselloryuki
+minimal_mistakes_skin: aqua
 search: true
-
+breadcrumbs: true
+logo: /favicon.ico
+locale: en-US
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
-paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+# paginate: 5 # amount of posts to show
+# paginate_path: /page:num/
+timezone: America/Los_Angeles # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
+url: https://counselloryuki.github.io
+repository: counselloryuki/counselloryuki.github.io
 
 include:
   - _pages
@@ -58,22 +63,28 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Sandy Lin"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Some collections of counseling resources, including college, career and school counseling materials for you to explore possibilities."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
+    - label: "Linkedin"
+      icon: "fab fa-linkedin"
+      url: "https://linkedin.com/in/sandy0"
+    - label: "Facebook"
+      icon: "fab fa-facebook-square"
+      url: "https://facebook.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com"
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      icon: "fab fa-github-square"
+      url: "https://github.com/counselloryuki"
     - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
+      icon: "fab fa-instagram-square"
       url: "https://instagram.com/"
+    - label: "Youtube"
+      icon: "fab fa-youtube"
+      url: "https://youtube.com/"
 
 footer:
   links:
@@ -81,11 +92,23 @@ footer:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/"
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      icon: "fab fa-github-square"
+      url: "https://github.com/counselloryuki"
+    - label: "Youtube"
+      icon: "fab fa-youtube"
+      url: "https://youtube.com/"
+    - label: "Reddit"
+      icon: "fab fa-reddit-square"
+      url: "https://reddit.com/"
+    - label: "Facebook"
+      icon: "fab fa-facebook-square"
+      url: "https://facebook.com"
     - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
+      icon: "fab fa-instagram-square"
       url: "https://instagram.com/"
+    - label: "Discord"
+      icon: "fab fa-discord"
+      url: "https://discord.com/"
 
 defaults:
   # _posts
@@ -113,3 +136,9 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-M71FB8LV7M"
+    anonymize_ip: false # default

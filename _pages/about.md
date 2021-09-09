@@ -3,6 +3,6 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+With three years of professional school Counselor/ Marriage and Family Therapy training at California State University-East Bay, my work primarily focused on academic intervention and mental health support to children and adolescents. I have been interested in working with diverse populations based on my cross-culture background. Additionally, I also had taught voice and music at Taiwan municipal elementary school for 18 years. I sincerely hope to enjoy an adventurous journey with students and support them to have the best school life path. 
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+(La Sra. Lin está en aquí los lunes y viernes de cada semana de 8 am a 4 pm en el salón B-3 y todos los martes de 8 am a 12 del mediodía.)
