@@ -19,6 +19,7 @@ title_separator: "@"
 name: Sandy Lin
 email: counselloryuki@gmail.com
 description: Some collections of counseling resources, including college, career and school counseling materials for you to explore possibilities.
+search_full_content: true
 # twitter_username: username
 github_username: counselloryuki
 minimal_mistakes_skin: aqua
