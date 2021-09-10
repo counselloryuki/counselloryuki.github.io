@@ -1,6 +1,8 @@
 main:
   - title: "Colleges"
     url: /colleges/
+  - title: "Timeline"
+    url: /timeline/
   - title: "About"
     url: /about/
   - title: "Posts"
