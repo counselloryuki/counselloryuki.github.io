@@ -15,7 +15,8 @@ feature_row:
     excerpt: "Everything from basic to the end, your applications are in good hands"
     url: "/colleges/"
     btn_class: "btn--primary"
-    btn_label: "Learn more"
+    btn_label: "Find schools"
+    btn_icon: "fas fa-school"
   - image_path: /assets/images/form.jpg
     image_link: "/page/forms/"
     alt: "Various forms"
@@ -23,7 +24,8 @@ feature_row:
     excerpt: "All forms for various circumstances"
     url: "/page/forms/"
     btn_class: "btn--primary"
-    btn_label: "Learn more"  
+    btn_label: "Find forms"
+    btn_icon: "fas fa-file-alt"
   - image_path: /assets/images/planner.jpg
     alt: "Other info"
     title: "Other info"
