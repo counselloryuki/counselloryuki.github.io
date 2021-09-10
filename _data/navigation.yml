@@ -3,6 +3,8 @@ main:
     url: /colleges/
   - title: "Timeline"
     url: /timeline/
+  - title: "Forms"
+    url: /forms/
   - title: "About"
     url: /about/
   - title: "Posts"

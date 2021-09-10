@@ -15,20 +15,20 @@ feature_row:
     url: "/colleges/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/planner.jpg
-    alt: "Courses, etc"
-    title: "Courses, etc"
-    excerpt: "Change schedule or classes planing? right here!"
-    url: "#"
-    btn_class: "btn--warning"
-    btn_label: "Work in progress"
   - image_path: /assets/images/form.jpg
-    alt: "Other forms"
-    title: "Other forms"
-    excerpt: "All other forms for other circumstances"
-    url: "#"
+    alt: "Various forms"
+    title: "Various forms"
+    excerpt: "All forms for various circumstances"
+    url: "/forms/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"  
+  - image_path: /assets/images/planner.jpg
+    alt: "Other info"
+    title: "Other info"
+    excerpt: "Finding other info? right here!"
+
     btn_class: "btn--warning"
-    btn_label: "Work in progress"      
+    btn_label: "Work in progress"    
 ---
 
 {% include feature_row %}
