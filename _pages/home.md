@@ -10,9 +10,9 @@ excerpt: >
 feature_row:
   - image_path: /assets/images/graduation.jpg
     image_link: "/colleges/"
-    alt: "College applications"
-    title: "College applications"
-    excerpt: "Everything from basic to the end, your applications are in good hands"
+    alt: "College summary"
+    title: "College summary"
+    excerpt: "Chose right schools and set the tone of your life"
     url: "/colleges/"
     btn_class: "btn--primary"
     btn_label: "Find schools"
@@ -27,12 +27,14 @@ feature_row:
     btn_label: "Find forms"
     btn_icon: "fas fa-file-alt"
   - image_path: /assets/images/planner.jpg
-    alt: "Other info"
-    title: "Other info"
-    excerpt: "Finding other info? right here! (work in progress)"
-
-    btn_class: "btn--warning"
-    btn_label: "Work in progress"    
+    image_link: "/timeline/"
+    alt: "Application timeline"
+    title: "Application timeline"
+    excerpt: "Catching up deadlines? right here"
+    url: "/timeline/"
+    btn_class: "btn--primary"
+    btn_label: "Check calendar"
+    btn_icon: "fas fa-calendar-alt"
 ---
 
 {% include feature_row %}
