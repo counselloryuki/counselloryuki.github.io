@@ -10,8 +10,8 @@ excerpt: >
 feature_row:
   - image_path: /assets/images/graduation.jpg
     image_link: "/colleges/"
-    alt: "College summary"
-    title: "College summary"
+    alt: "College overview"
+    title: "College overview"
     excerpt: "Chose right schools and set the tone of your life"
     url: "/colleges/"
     btn_class: "btn--primary"
