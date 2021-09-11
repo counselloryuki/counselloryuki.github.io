@@ -19,11 +19,11 @@ title_separator: "@"
 name: Sandy Lin
 email: counselloryuki@gmail.com
 description: Some collections of counseling resources, including college, career and school counseling materials for you to explore possibilities.
-search_full_content: true
+
 # twitter_username: username
 github_username: counselloryuki
 minimal_mistakes_skin: aqua
-search: true
+
 breadcrumbs: true
 logo: /favicon.ico
 locale: en-US
@@ -38,6 +38,19 @@ timezone: America/Los_Angeles # https://en.wikipedia.org/wiki/List_of_tz_databas
 
 url: https://counselloryuki.github.io
 repository: counselloryuki/counselloryuki.github.io
+
+## search
+# search_full_content: true
+search: true
+search_provider: algolia
+
+algolia:
+  application_id: ZAMMRAVB0O
+  index_name: counselloryuki_github
+  search_only_api_key: 653e48e4be7cfc3eabb8f94017094a25
+  powered_by: true
+
+###
 
 include:
   - _pages
