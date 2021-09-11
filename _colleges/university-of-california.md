@@ -11,9 +11,9 @@ header:
 An in-state university system with 10 campuses, 5 medical centers and 3 national labs in California. In addition to 
 [main UC web page](https://www.universityofcalifornia.edu/){:target="_blank"}, please check each campus's website. For example, [UC Davis](https://www.ucdavis.edu/){:target="_blank"}, [UCLA](https://www.ucla.edu/){:target="_blank"}, [UCSF](https://www.ucsf.edu/){:target="_blank"}, [UC Berkeley](https://www.berkeley.edu/){:target="_blank"} or [UC San Diego](https://ucsd.edu/){:target="_blank"}, etc.
 
-### You can get
+### Possibilities
 - Bachelor Degree
-- 5 years MS
+- 5 years BS+MS
 
 
 ## Deadline

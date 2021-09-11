@@ -10,7 +10,7 @@ header:
 The largest four-year public university system of our nation with 23 campuses in California. In addition to 
 [main CSU web page](https://www.calstate.edu/){:target="_blank"}, please check each campus's website. For example, [CSU East Bay](https://www.csueastbay.edu/){:target="_blank"}, [San José State University](https://www.sjsu.edu/){:target="_blank"}, [Cal Maritime Academy](https://www.csum.edu/){:target="_blank"}, [San Francisco State University](https://www.sfsu.edu/){:target="_blank"} or [Sonoma State University](https://www.sonoma.edu/){:target="_blank"}, etc.
 
-### You can get
+### Possibilities
 - Bachelor Degree
 - Associate Degree - Transfer
 

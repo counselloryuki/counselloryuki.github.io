@@ -9,7 +9,7 @@ header:
 ## Introduction
 If tuition budge is not a concern, many private, independent & out of state colleges are great choices. For example, [Stanford University](https://www.stanford.edu/){:target="_blank"}, [Cal Tech](https://www.caltech.edu/){:target="_blank"}, [Santa Clara University](https://www.scu.edu/){:target="_blank"}, [University of Southern California](https://www.usc.edu/){:target="_blank"} or [Harvard University](https://www.harvard.edu/){:target="_blank"}, etc.
 
-### You can get
+### Possibilities
 - Bachelor Degree
 
 
