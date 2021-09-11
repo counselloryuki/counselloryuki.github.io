@@ -5,6 +5,8 @@ main:
     url: /timeline/
   - title: "Forms"
     url: /page/forms/
+  - title: "Links"
+    url: /page/useful-links/
   - title: "About"
     url: /about/
   - title: "Posts"
