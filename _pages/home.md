@@ -31,7 +31,7 @@ feature_row:
     alt: "Application timeline"
     title: "Application timeline"
     excerpt: "Catching up deadlines? right here"
-    url: "/timeline/"
+    url: "/page/timeline/"
     btn_class: "btn--primary"
     btn_label: "Check calendar"
     btn_icon: "fas fa-calendar-alt"

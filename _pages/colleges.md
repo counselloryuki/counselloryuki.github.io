@@ -6,7 +6,6 @@ permalink: /colleges/
 collection: colleges
 entries_layout: grid
 classes: wide
-comments: true
 ---
 
 | Overview      |[Military Academies](/colleges/military-academies/)|[Community Colleges](/colleges/california-community-colleges/)|[California State Universities](/colleges/california-state-university/)|[University of California](/colleges/university-of-california/)|[Independent, Private, Out of State Colleges](/colleges/other-colleges/)| 

@@ -2,7 +2,7 @@ main:
   - title: "Colleges"
     url: /colleges/
   - title: "Timeline"
-    url: /timeline/
+    url: /page/timeline/
   - title: "Forms"
     url: /page/forms/
   - title: "Links"
