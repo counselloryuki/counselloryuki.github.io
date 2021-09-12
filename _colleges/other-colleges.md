@@ -19,3 +19,5 @@ The application process are similar to other colleges. Some application deadline
 ## Apply
 In addition to apply for each college individually, please consider to apply hundreds of them simultaneously by your [Common Application](https://www.commonapp.org){:target="_blank"} account. Your [www.californiacolleges.edu](http://www.californiacolleges.edu){:target="_blank"} account can apply to some private colleges too.
 
+[Application steps & checklist from CaliforniaColleges.edu](https://www.californiacolleges.edu/#/college-application-checklist){:target="_blank"} 
+{: .notice--success}

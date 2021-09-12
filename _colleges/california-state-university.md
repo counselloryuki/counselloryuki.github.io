@@ -19,3 +19,6 @@ The largest four-year public university system of our nation with 23 campuses in
 
 ## Apply
 Apply via your [www.californiacolleges.edu](http://www.californiacolleges.edu){:target="_blank"} or [Liaison](https://calstate.liaisoncas.com){:target="_blank"} account.
+
+[Application steps & checklist from CaliforniaColleges.edu](https://www.californiacolleges.edu/#/college-application-checklist){:target="_blank"} 
+{: .notice--success}

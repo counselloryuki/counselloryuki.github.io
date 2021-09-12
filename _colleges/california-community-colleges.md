@@ -20,3 +20,6 @@ Chabot College application filing period:  starting October 1.
 
 ## Apply
 Apply via your [CCC Apply](https://home.cccapply.org){:target="_blank"} account. The application response will include a "W" number, which is your student number.
+
+[Application steps & checklist from CaliforniaColleges.edu](https://www.californiacolleges.edu/#/college-application-checklist){:target="_blank"} 
+{: .notice--success}
