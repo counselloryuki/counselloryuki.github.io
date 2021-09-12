@@ -45,6 +45,7 @@ search: true
 search_provider: algolia
 
 algolia:
+  nodes_to_index: 'p,blockquote,li,div,em,strong,sup,a,table'
   application_id: ZAMMRAVB0O
   index_name: counselloryuki_github
   search_only_api_key: 653e48e4be7cfc3eabb8f94017094a25
