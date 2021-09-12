@@ -21,7 +21,8 @@ An in-state university system with 10 campuses, 5 medical centers and 3 national
 
 ## Apply
 You can apply to all 9 campuses all together from [UC application site](https://apply.universityofcalifornia.edu/){:target="_blank"}.
-The OMI ETS Code is 053972.
+[The ETS high school code can be found here](https://collegereadiness.collegeboard.org/k-12-school-code-search){:target="_blank"}.
+
 
 [Application steps & checklist from CaliforniaColleges.edu](https://www.californiacolleges.edu/#/college-application-checklist){:target="_blank"} 
 {: .notice--success}

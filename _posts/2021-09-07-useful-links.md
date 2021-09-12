@@ -12,6 +12,6 @@ tags:
 
 | Link                                              | For                         | Explain |
 | ------------------------------------------------- | ----------------------------| ------- |
-| [A-G Course List](https://hs-articulation.ucop.edu/agcourselist/institution/408){:target="_blank"} | Checking if taken courses approved for college   | [What's A-G?](https://www.californiacolleges.edu/#/learn-about-a-g){:target="_blank"}|
+| [A-G Course List](https://hs-articulation.ucop.edu/agcourselist){:target="_blank"} | Checking if taken courses approved for college   | [What's A-G?](https://www.californiacolleges.edu/#/learn-about-a-g){:target="_blank"}|
 
 

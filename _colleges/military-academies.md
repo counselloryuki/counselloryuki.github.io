@@ -18,4 +18,4 @@ US will pay 4 years of tuition/room/board for your future service. In addition t
 We will help for your applications.
 
 ## Apply
-The OMI ETS Code is 053972.
+[The ETS high school code can be found here](https://collegereadiness.collegeboard.org/k-12-school-code-search){:target="_blank"}.
