@@ -17,7 +17,7 @@ main:
     url: /tags/
 
 college-list:
-  - title: "Univ of Cal"
+  - title: "Univ of Cal(UC)"
     children:
       - title: "Intro"
         url: /colleges/university-of-california/#introduction
@@ -25,7 +25,7 @@ college-list:
         url: /colleges/university-of-california/#deadline
       - title: "Apply"
         url: /colleges/university-of-california/#apply
-  - title: "Cal State"
+  - title: "Cal State(CSU)"
     children:
       - title: "Intro"
         url: /colleges/california-state-university/#introduction
@@ -41,7 +41,7 @@ college-list:
         url: /colleges/other-colleges/#deadline
       - title: "Apply"
         url: /colleges/other-colleges/#apply
-  - title: "Comm colleges"
+  - title: "Comm colleges(CCC)"
     children:
       - title: "Intro"
         url: /colleges/california-community-colleges/#introduction

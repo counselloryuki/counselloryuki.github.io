@@ -19,7 +19,28 @@ The largest post-secondary college system of our nation with [116 colleges](http
 Chabot College application filing period:  starting October 1.
 
 ## Apply
-Apply via your [CCC Apply](https://home.cccapply.org){:target="_blank"} account. The application response will include a "W" number, which is your student number.
+### Chabot College
+<input type="checkbox"> 1. Apply via your [CCC Apply](https://home.cccapply.org){:target="_blank"} account.
+<br>
+<input type="checkbox"> 2. The application response will include a "W" number, which is your student number: W<span style="text-decoration: underline; white-space: pre;">                           </span>
+<br>
+<input type="checkbox"> 3. Complete your [FAFSA/California Dream Act application](/colleges/financial-aid-scholarships/)
+<br>
+<input type="checkbox"> 4. Finish the Chabot Online Orientation.
+<br>
+<input type="checkbox"> 5. Complete the [Chabot ENGLISH Informed Course Selection](http://www.chabotcollege.edu/counseling/assessment/docs/english%20informed%20course%20selection%20steps.pdf){:target="_blank" title='Need your Chabot "W number" and PIN (6 digit birthdate)'} AND the [Chabot MATH Guided Self-Placement](http://www.chabotcollege.edu/counseling/assessment/docs/math%20guided%20self-placement%20steps.pdf){:target="_blank" title='Need your Chabot "W number" and PIN (6 digit birthdate)'}.
+<br>
+<input type="checkbox"> 6. Finish [Title IX ‐ Sexual Assault & Violence Prevention Training](http://www.chabotcollege.edu/counseling/assessment/docs/title%20ix-student-handout.pdf){:target="_blank"}.
+<br>
+<input type="checkbox"> 7. Complete your student EdPlan plan by attending your First Semester Planning (FSP).
+<br>
+<input type="checkbox"> 8. Submit Chabot College Financial Aid forms in [ClassWeb](https://bw11.clpccd.cc.ca.us){:target="_blank"} under "Financial Aid" tab.
+<br>
+<input type="checkbox"> 9. Start college early by applying [Chabot Summer Bridge](https://www.chabotcollege.edu/student-services/el-centro/summer-bridge.php){:target="_blank"}.
+
+
+[SOAR Check list](https://www.chabotcollege.edu/counseling/soar/docs/SOAR%202022%20student%20steps%20handout.pdf){:target="_blank"} from [Chabot College's Student Orientation and Registration (SOAR)](https://www.chabotcollege.edu/counseling/soar/){:target="_blank"}
+{: .notice--info}
 
 [Application steps & checklist from CaliforniaColleges.edu](https://www.californiacolleges.edu/#/college-application-checklist){:target="_blank"} 
 {: .notice--success}

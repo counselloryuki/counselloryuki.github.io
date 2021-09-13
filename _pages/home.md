@@ -11,8 +11,8 @@ feature_row:
   - image_path: /assets/images/graduation.jpg
     image_link: "/colleges/"
     alt: "College overview"
-    title: "College overview"
-    excerpt: "Chose right schools and set the tone of your life"
+    title: "College application"
+    excerpt: "Apply for right schools and set the tone of your life"
     text_link: "/colleges/"
     url: "/colleges/"
     btn_class: "btn--primary"
