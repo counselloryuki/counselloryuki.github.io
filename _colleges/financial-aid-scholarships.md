@@ -18,7 +18,10 @@ Higher education that get you ready for future careers could cost a lot. There a
 - Student loan
 
 ## Deadline
-Please apply financial aid when applying for colleges
+When applying for colleges, please also apply financial aid, since many are first come first served. Don't wait.
 
 ## Apply
+[Youtube: Apply FAFSA or California Dream Act by CaliforniaColleges.edu](https://youtu.be/d0EzRU-ixkA){:target="_blank"} 
+{: .notice--success}
+
 Parent AND student must both [create FAFSA account to get FSA ID](https://studentaid.gov/fsa-id/create-account/launch){:target="_blank"}

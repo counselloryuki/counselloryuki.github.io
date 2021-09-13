@@ -9,10 +9,9 @@ header:
 ## Introduction
 US will pay 4 years of tuition/room/board for your future service. In addition to conventional military academies such as [Military Academy, West Point](https://www.westpoint.edu/){:target="_blank"}, [Naval Academy](https://www.usna.edu/){:target="_blank"}, [Air Force Academy](https://www.usafa.af.mil/){:target="_blank"}, [Coast Guard Academy](https://www.uscga.edu/){:target="_blank"}, [Merchant Marine Academy](https://www.usmma.edu/){:target="_blank"}, [ROTC programs](https://www.todaysmilitary.com/education-training/rotc-programs){:target="_blank"} in ~1,700 colleges will help your military career path.
 
-### Possibilities
-- Bachelor Degree
-- Military officer
-- Graduate program opportunities
+| 2021 Estimated <strong><em>annual</em></strong> cost| Possibilities | 
+| --------------------------------------------------- | --------------| 
+|$2878<br>(minus pay/scholarships)   |* Bachelor Degree<br>* Military officer<br>* Graduate program opportunities|
 
 ## Deadline
 We will help for your applications.

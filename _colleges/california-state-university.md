@@ -10,9 +10,9 @@ header:
 The largest four-year public university system of our nation with 23 campuses in California. In addition to 
 [main CSU web page](https://www.calstate.edu/){:target="_blank"}, please check each campus's website. For example, [CSU East Bay](https://www.csueastbay.edu/){:target="_blank"}, [San José State University](https://www.sjsu.edu/){:target="_blank"}, [Cal Maritime Academy](https://www.csum.edu/){:target="_blank"}, [San Francisco State University](https://www.sfsu.edu/){:target="_blank"} or [Sonoma State University](https://www.sonoma.edu/){:target="_blank"}, etc.
 
-### Possibilities
-- Bachelor Degree
-- Associate Degree - Transfer
+| 2021 Estimated <strong><em>annual</em></strong> cost| Possibilities | 
+| ------------------------------------------------- | ----------------------------| 
+|$20,120-$30,483<br>(resident)|* Bachelor Degree<br>* Associate Degree - Transfer|
 
 ## Deadline
 [CSU application filing period](https://www2.calstate.edu/apply/Pages/application-dates-deadlines.aspx){:target="_blank"}:  Oct. 1st - Nov. 30

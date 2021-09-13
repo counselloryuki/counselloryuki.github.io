@@ -10,15 +10,18 @@ header:
 The largest post-secondary college system of our nation with [116 colleges](https://en.wikipedia.org/wiki/List_of_California_Community_Colleges_by_enrollment){:target="_blank"} in California. In addition to 
 [main CCC web page](https://www.cccco.edu/){:target="_blank"}, please check each college's website. For example, [Chabot College](https://www.chabotcollege.edu/){:target="_blank"}, [Las Positas College](http://www.laspositascollege.edu){:target="_blank"}, [City College of San Francisco](https://www.ccsf.edu/){:target="_blank"}, [De Anza College](https://www.deanza.edu/){:target="_blank"}, [Diablo Valley College](https://www.dvc.edu/){:target="_blank"} or [Laney College](https://laney.edu/){:target="_blank"}, etc.
 
-### Possibilities
-- Certificate of completion
-- AA Degree
-- AA Degree - Transfer
+
+| 2021 Estimated <strong><em>annual</em></strong> cost| Possibilities | 
+| ------------------------------------------------- | ----------------------------| 
+|$10,373 -$18,208<br>(resident)|* Certificate of completion<br>* AA Degree<br>* AA Degree - Transfer|
 
 ## Deadline
 Chabot College application filing period:  starting October 1.
 
 ## Apply
+[Youtube: CaliforniaColleges.edu can open CCC Apply](https://youtu.be/3U3nQBMSxzw){:target="_blank"} 
+{: .notice--info}
+
 ### Chabot College
 <input type="checkbox"> 1. Apply via your [CCC Apply](https://home.cccapply.org){:target="_blank"} account.
 <br>
@@ -40,7 +43,5 @@ Chabot College application filing period:  starting October 1.
 
 
 [SOAR Check list](https://www.chabotcollege.edu/counseling/soar/docs/SOAR%202022%20student%20steps%20handout.pdf){:target="_blank"} from [Chabot College's Student Orientation and Registration (SOAR)](https://www.chabotcollege.edu/counseling/soar/){:target="_blank"}
-{: .notice--info}
-
-[Application steps & checklist from CaliforniaColleges.edu](https://www.californiacolleges.edu/#/college-application-checklist){:target="_blank"} 
 {: .notice--success}
+
