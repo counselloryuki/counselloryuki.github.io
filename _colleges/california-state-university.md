@@ -4,6 +4,7 @@ display_order: 2
 excerpt: "Largest four-year public university system with affordable expanses"
 header:
   teaser: /assets/images/csu.svg
+checkbox_class: csu
 ---
 ![UC campuses and labs](/assets/images/csu-campuses.png){:width="40%"}
 ## Introduction
@@ -21,18 +22,19 @@ The largest four-year public university system of our nation with 23 campuses in
 [Youtube: Learn Cal State Apply Application by CaliforniaColleges.edu in 5 min](https://youtu.be/AUgeCNC_EcE){:target="_blank"} 
 {: .notice--info}
 
-<input type="checkbox"> 1. [Register CaliforniaColleges.edu account](https://docs.google.com/document/d/1vuqtfNEwHEyKLt6QSAUZvQmyJ71vqJsPAx22CopSbCg){:target="_blank"} and check your class if you haven't done so. It can upload your transcripts using CaliforniaColleges.edu
+<input type="checkbox" id="{{page.checkbox_class}}-1" class="persisted"> 1. [Register CaliforniaColleges.edu account](https://docs.google.com/document/d/1vuqtfNEwHEyKLt6QSAUZvQmyJ71vqJsPAx22CopSbCg){:target="_blank"} and check your class if you haven't done so. It can upload your transcripts using CaliforniaColleges.edu
 <br>
-<input type="checkbox"> 2. Login [www.californiacolleges.edu](http://www.californiacolleges.edu){:target="_blank"} and search CSU by College Search Tool.  Once found, please bookmark it by "heart" the school on the right.
+<input type="checkbox" id="{{page.checkbox_class}}-2" class="persisted"> 2. Login [www.californiacolleges.edu](http://www.californiacolleges.edu){:target="_blank"} and search CSU by College Search Tool.  Once found, please bookmark it by "heart" the school on the right.
 <br>
-<input type="checkbox"> 3. Click "Apply" button in the "Admission" tab.
+<input type="checkbox" id="{{page.checkbox_class}}-3" class="persisted"> 3. Click "Apply" button in the "Admission" tab.
 <br>
-<input type="checkbox"> 4. Use your personal email to "Create an Account.". Please remember the new login credentials.
+<input type="checkbox" id="{{page.checkbox_class}}-4" class="persisted"> 4. Use your personal email to "Create an Account.". Please remember the new login credentials.
 <br>
-<input type="checkbox"> 5.  In "My Application" screen start with the "Academic History" box and select "High School Attended", "import" the high school by scrolling down and click "Show Me How." .
+<input type="checkbox" id="{{page.checkbox_class}}-5" class="persisted"> 5.  In "My Application" screen start with the "Academic History" box and select "High School Attended", "import" the high school by scrolling down and click "Show Me How." .
 <br>
-<input type="checkbox"> 6. Finishing "Graduation Status" and hit "Save and Continue.", your classes will show up after some time.  Double check they are in the correct A-G areas or edit them.  
-<input type="checkbox"> 7. Continue to finish the application.
+<input type="checkbox" id="{{page.checkbox_class}}-6" class="persisted"> 6. Finishing "Graduation Status" and hit "Save and Continue.", your classes will show up after some time.  Double check they are in the correct A-G areas or edit them.
+<br>
+<input type="checkbox" id="{{page.checkbox_class}}-7" class="persisted"> 7. Continue to finish the application.
 
 ps. For financially challenged families, please apply for Application Fee Waivers.
 
