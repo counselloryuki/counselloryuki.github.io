@@ -182,3 +182,6 @@ analytics:
   google:
     tracking_id: "G-M71FB8LV7M"
     anonymize_ip: false # default
+
+after_footer_scripts:
+  - /assets/js/custom.js
