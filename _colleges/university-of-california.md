@@ -23,7 +23,7 @@ You can apply to all 9 campuses all together from [UC application site](https://
 [The ETS high school code can be found here](https://collegereadiness.collegeboard.org/k-12-school-code-search){:target="_blank"}.
 
 [Youtube: Apply UC by CaliforniaColleges.edu](https://youtu.be/_yRSbIQ2vJw){:target="_blank"} 
-{: .notice--success}
+{: .notice--warning}
 
 Official UC info: [Applying UC as a freshman](https://admission.universityofcalifornia.edu/how-to-apply/applying-as-a-freshman){:target="_blank"} & how to [Filling out the UC application](https://admission.universityofcalifornia.edu/how-to-apply/applying-as-a-freshman/filling-out-the-application.html){:target="_blank"}, including tips for [personal insight questions](https://admission.universityofcalifornia.edu/how-to-apply/applying-as-a-freshman/personal-insight-questions.html){:target="_blank"}
 {: .notice--info}

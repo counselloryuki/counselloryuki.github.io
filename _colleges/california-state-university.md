@@ -20,7 +20,7 @@ The largest four-year public university system of our nation with 23 campuses in
 
 ## Apply
 [Youtube: Learn Cal State Apply Application by CaliforniaColleges.edu in 5 min](https://youtu.be/AUgeCNC_EcE){:target="_blank"} 
-{: .notice--info}
+{: .notice--warning}
 
 <input type="checkbox" id="{{page.checkbox_class}}-1" class="persisted"> 1. [Register CaliforniaColleges.edu account](https://docs.google.com/document/d/1vuqtfNEwHEyKLt6QSAUZvQmyJ71vqJsPAx22CopSbCg){:target="_blank"} and check your class if you haven't done so. It can upload your transcripts using CaliforniaColleges.edu
 <br>

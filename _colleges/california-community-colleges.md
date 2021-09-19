@@ -21,7 +21,7 @@ Chabot College application filing period:  starting October 1.
 
 ## Apply
 [Youtube: CaliforniaColleges.edu can open CCC Apply](https://youtu.be/3U3nQBMSxzw){:target="_blank"} 
-{: .notice--info}
+{: .notice--warning}
 
 ### Chabot College
 <input type="checkbox" id="{{page.checkbox_class}}-1" class="persisted"> 1. Apply via your [CCC Apply](https://home.cccapply.org){:target="_blank"} account.

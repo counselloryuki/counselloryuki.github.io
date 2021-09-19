@@ -22,6 +22,6 @@ When applying for colleges, please also apply financial aid, since many are firs
 
 ## Apply
 [Youtube: Apply FAFSA or California Dream Act by CaliforniaColleges.edu](https://youtu.be/d0EzRU-ixkA){:target="_blank"} 
-{: .notice--success}
+{: .notice--warning}
 
 Parent AND student must both [create FAFSA account to get FSA ID](https://studentaid.gov/fsa-id/create-account/launch){:target="_blank"}
