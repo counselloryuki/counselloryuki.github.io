@@ -3,8 +3,8 @@ main:
     url: /colleges/
   - title: "Timeline"
     url: /page/timeline/
-  - title: "Forms"
-    url: /page/forms/
+  - title: "Forms&Docs"
+    url: /page/forms-documents/
   - title: "Links"
     url: /page/useful-links/
   - title: "About"

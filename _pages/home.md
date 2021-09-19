@@ -4,7 +4,7 @@ permalink: /
 hidden: true
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/mountain.jpg
+  overlay_image: /assets/images/hero.jpg
 excerpt: >
   Some collections of counseling resources, including college, career and school counseling materials for you to explore possibilities.
 feature_row:
@@ -12,7 +12,7 @@ feature_row:
     image_link: "/colleges/"
     alt: "College overview"
     title: "College application"
-    excerpt: "Apply for right schools and set the tone of your life"
+    excerpt: "Apply for right schools and set the tone for your life"
     text_link: "/colleges/"
     url: "/colleges/"
     btn_class: "btn--primary"
@@ -20,10 +20,10 @@ feature_row:
     btn_icon: "fas fa-school"
   - image_path: /assets/images/form.jpg
     image_link: "/page/forms/"
-    alt: "Various forms"
-    title: "Various forms"
-    excerpt: "All forms for various circumstances"
-    text_link: "/page/forms/"
+    alt: "Forms & documents"
+    title: "Forms & documents"
+    excerpt: "All forms and documents for various circumstances"
+    text_link: "/page/forms-documents/"
     url: "/page/forms/"
     btn_class: "btn--primary"
     btn_label: "Find forms"
