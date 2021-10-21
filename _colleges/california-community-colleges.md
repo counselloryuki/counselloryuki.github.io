@@ -23,10 +23,10 @@ Chabot College application filing period:  starting October 1.
 [Youtube: CaliforniaColleges.edu can launch OpenCCC to upload transcript easily](https://youtu.be/3U3nQBMSxzw){:target="_blank"}
 {: .notice--warning}
 
-### Chabot College
+### [Chabot College](https://www.opencccapply.net/cccapply-welcome?cccMisCode=482){:target="_blank"} and [Las Positas College](http://www.laspositascollege.edu/admissions/index.php){:target="_blank"}
 <input type="checkbox" id="{{page.checkbox_class}}-1" class="persisted"> 1. Apply via your [CCC Apply](https://home.cccapply.org){:target="_blank"} account.
 <br>
-<input type="checkbox" id="{{page.checkbox_class}}-2" class="persisted"> 2. The application response will include a "W" number, which is your (CCC) student number: W<span style="text-decoration: underline; white-space: pre;">                           </span>
+<input type="checkbox" id="{{page.checkbox_class}}-2" class="persisted"> 2. The application response will include a ClassWeb "W" number, which is your college student number: W<span style="text-decoration: underline; white-space: pre;">                           </span>
 <br>
 <input type="checkbox" id="{{page.checkbox_class}}-3" class="persisted"> 3. Complete your [FAFSA/California Dream Act application](/colleges/financial-aid-scholarships/)
 <br>
@@ -41,6 +41,18 @@ Chabot College application filing period:  starting October 1.
 <input type="checkbox" id="{{page.checkbox_class}}-8" class="persisted"> 8. Submit Chabot College Financial Aid forms in [ClassWeb](https://bw11.clpccd.cc.ca.us){:target="_blank"} under "Financial Aid" tab.
 <br>
 <input type="checkbox" id="{{page.checkbox_class}}-9" class="persisted"> 9. Start college early by applying [Chabot Summer Bridge](https://www.chabotcollege.edu/student-services/el-centro/summer-bridge.php){:target="_blank"}.
+
+
+### [Peralta College District](https://home.peralta.edu/apply21){:target="_blank"}: including [Berkeley City College](http://launch.cccmypath.org/mypath/345?authSource=OpenCCC){:target="_blank"}, [College of Alameda](http://launch.cccmypath.org/mypath/341?authSource=OpenCCC){:target="_blank"}, [Laney College](http://launch.cccmypath.org/mypath/343?authSource=OpenCCC){:target="_blank"}, [Merritt College](http://launch.cccmypath.org/mypath/344?authSource=OpenCCC){:target="_blank"})
+<input type="checkbox" id="{{page.checkbox_class}}-21" class="persisted"> 1. Choose your favorite college in [Peralta colleges application page](https://home.peralta.edu/apply21){:target="_blank"}, complete CCC Apply Application on MyPath.
+<br>
+<input type="checkbox" id="{{page.checkbox_class}}-22" class="persisted"> 2. Peralta College District will response an email including a Campus Solutions Password and Username: <span style="text-decoration: underline; white-space: pre;">                                                                        </span>
+<br>
+<input type="checkbox" id="{{page.checkbox_class}}-23" class="persisted"> 3. Enroll classes in [Campus Solutions](https://sa.peralta.edu/psp/PCCDCPRD/?cmd=login){:target="_blank"}
+<br>
+<input type="checkbox" id="{{page.checkbox_class}}-24" class="persisted"> 4. Complete your [FAFSA/California Dream Act application](/colleges/financial-aid-scholarships/)
+<br>
+
 
 <button name="clear-checkboxes" class="btn btn--warning" value="ccc">Reset all above check boxes</button>
 
