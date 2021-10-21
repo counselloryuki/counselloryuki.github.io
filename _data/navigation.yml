@@ -18,6 +18,7 @@ main:
 
 college-list:
   - title: "Univ of Cal(UC)"
+    url: /colleges/university-of-california/
     children:
       - title: "Intro"
         url: /colleges/university-of-california/#introduction
@@ -26,6 +27,7 @@ college-list:
       - title: "Apply"
         url: /colleges/university-of-california/#apply
   - title: "Cal State(CSU)"
+    url: /colleges/california-state-university/
     children:
       - title: "Intro"
         url: /colleges/california-state-university/#introduction
@@ -34,6 +36,7 @@ college-list:
       - title: "Apply"
         url: /colleges/california-state-university/#apply
   - title: "Other colleges"
+    url: /colleges/other-colleges/
     children:
       - title: "Intro"
         url: /colleges/other-colleges/#introduction
@@ -42,6 +45,7 @@ college-list:
       - title: "Apply"
         url: /colleges/other-colleges/#apply
   - title: "Comm colleges(CCC)"
+    url: /colleges/california-community-colleges/
     children:
       - title: "Intro"
         url: /colleges/california-community-colleges/#introduction
@@ -50,6 +54,7 @@ college-list:
       - title: "Apply"
         url: /colleges/california-community-colleges/#apply
   - title: "Military"
+    url: /colleges/military-academies/
     children:
       - title: "Intro"
         url: /colleges/military-academies/#introduction

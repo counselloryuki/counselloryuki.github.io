@@ -20,13 +20,13 @@ The largest post-secondary college system of our nation with [116 colleges](http
 Chabot College application filing period:  starting October 1.
 
 ## Apply
-[Youtube: CaliforniaColleges.edu can open CCC Apply](https://youtu.be/3U3nQBMSxzw){:target="_blank"} 
+[Youtube: CaliforniaColleges.edu can launch OpenCCC to upload transcript easily](https://youtu.be/3U3nQBMSxzw){:target="_blank"}
 {: .notice--warning}
 
 ### Chabot College
 <input type="checkbox" id="{{page.checkbox_class}}-1" class="persisted"> 1. Apply via your [CCC Apply](https://home.cccapply.org){:target="_blank"} account.
 <br>
-<input type="checkbox" id="{{page.checkbox_class}}-2" class="persisted"> 2. The application response will include a "W" number, which is your student number: W<span style="text-decoration: underline; white-space: pre;">                           </span>
+<input type="checkbox" id="{{page.checkbox_class}}-2" class="persisted"> 2. The application response will include a "W" number, which is your (CCC) student number: W<span style="text-decoration: underline; white-space: pre;">                           </span>
 <br>
 <input type="checkbox" id="{{page.checkbox_class}}-3" class="persisted"> 3. Complete your [FAFSA/California Dream Act application](/colleges/financial-aid-scholarships/)
 <br>
@@ -42,6 +42,7 @@ Chabot College application filing period:  starting October 1.
 <br>
 <input type="checkbox" id="{{page.checkbox_class}}-9" class="persisted"> 9. Start college early by applying [Chabot Summer Bridge](https://www.chabotcollege.edu/student-services/el-centro/summer-bridge.php){:target="_blank"}.
 
+<button name="clear-checkboxes" class="btn btn--warning" value="ccc">Reset all above check boxes</button>
 
 [SOAR Check list](https://www.chabotcollege.edu/counseling/soar/docs/SOAR%202022%20student%20steps%20handout.pdf){:target="_blank"} from [Chabot College's Student Orientation and Registration (SOAR)](https://www.chabotcollege.edu/counseling/soar/){:target="_blank"}
 {: .notice--success}
