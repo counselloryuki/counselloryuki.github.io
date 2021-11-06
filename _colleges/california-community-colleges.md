@@ -11,10 +11,11 @@ checkbox_class: ccc
 The largest post-secondary college system of our nation with [116 colleges](https://en.wikipedia.org/wiki/List_of_California_Community_Colleges_by_enrollment){:target="_blank"} in California. In addition to 
 [main CCC web page](https://www.cccco.edu/){:target="_blank"}, please check each college's website. For example, [Chabot College](https://www.chabotcollege.edu/){:target="_blank"}, [Las Positas College](http://www.laspositascollege.edu){:target="_blank"}, [City College of San Francisco](https://www.ccsf.edu/){:target="_blank"}, [De Anza College](https://www.deanza.edu/){:target="_blank"}, [Diablo Valley College](https://www.dvc.edu/){:target="_blank"} or [Laney College](https://laney.edu/){:target="_blank"}, etc.
 
+Currently 15 CCC colleges, such as [Foothill college](https://www.foothill.edu/dentalhygiene/){:target="_blank"} and [Skyline college](https://skylinecollege.edu/respiratorycarebachelors/){:target="_blank"}, offer certain [Bachelor's Degree Pilot Program](https://www.cccco.edu/About-Us/Chancellors-Office/Divisions/Educational-Services-and-Support/What-we-do/Curriculum-and-Instruction-Unit/Curriculum/Baccalaureate-Degree-Pilot-Program){:target="_blank"} at even more affordable tuition for students prefer "learning by doing".
 
 | 2021 Estimated <strong><em>annual</em></strong> cost| Possibilities | 
 | ------------------------------------------------- | ----------------------------| 
-|$10,373 -$18,208<br>(resident)|* Certificate of completion<br>* AA Degree<br>* AA Degree - Transfer|
+|$10,373 -$18,208<br>(resident)|* Certificate of completion<br>* AA Degree<br>* AA Degree - Transfer<br>* Bachelor Degree|
 
 ## Deadline
 Chabot College application filing period:  starting October 1.
