@@ -28,7 +28,7 @@ The largest four-year public university system of our nation with 23 campuses in
 <br>
 <input type="checkbox" id="{{page.checkbox_class}}-3" class="persisted"> 3. Click "Apply" button in the "Admission" tab.
 <br>
-<input type="checkbox" id="{{page.checkbox_class}}-4" class="persisted"> 4. Use your personal email to "Create an Account.". Please remember the new login credentials.
+<input type="checkbox" id="{{page.checkbox_class}}-4" class="persisted"> 4. Use your personal email to "Create an Account.". Please remember the new login credentials<span><input type="text" id="{{page.checkbox_class}}-4i" class="persisted" style="width: 15rem; border: 0; outline: 0; border-bottom: 2px solid #0f477e; border-radius: 0px;"></span>.
 <br>
 <input type="checkbox" id="{{page.checkbox_class}}-5" class="persisted"> 5.  In "My Application" screen start with the "Academic History" box and select "High School Attended", "import" the high school by scrolling down and click "Show Me How." .
 <br>

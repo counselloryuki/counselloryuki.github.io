@@ -27,7 +27,7 @@ Chabot College application filing period:  starting October 1.
 ### [Chabot College](https://www.opencccapply.net/cccapply-welcome?cccMisCode=482){:target="_blank"} and [Las Positas College](http://www.laspositascollege.edu/admissions/index.php){:target="_blank"}
 <input type="checkbox" id="{{page.checkbox_class}}-1" class="persisted"> 1. Apply via your [CCC Apply](https://home.cccapply.org){:target="_blank"} account.
 <br>
-<input type="checkbox" id="{{page.checkbox_class}}-2" class="persisted"> 2. The application response will include a ClassWeb "W" number, which is your college student number: W<span style="text-decoration: underline; white-space: pre;">                           </span>
+<input type="checkbox" id="{{page.checkbox_class}}-2" class="persisted"> 2. The application response will include a ClassWeb "W" number, which is your college student number: W<span><input type="text" id="{{page.checkbox_class}}-2i" class="persisted" style="width: 10rem; border: 0; outline: 0; border-bottom: 2px solid #0f477e; border-radius: 0px;"></span>.
 <br>
 <input type="checkbox" id="{{page.checkbox_class}}-3" class="persisted"> 3. Complete your [FAFSA/California Dream Act application](/colleges/financial-aid-scholarships/)
 <br>
@@ -47,7 +47,7 @@ Chabot College application filing period:  starting October 1.
 ### [Peralta College District](https://home.peralta.edu/apply21){:target="_blank"}: including [Berkeley City College](http://launch.cccmypath.org/mypath/345?authSource=OpenCCC){:target="_blank"}, [College of Alameda](http://launch.cccmypath.org/mypath/341?authSource=OpenCCC){:target="_blank"}, [Laney College](http://launch.cccmypath.org/mypath/343?authSource=OpenCCC){:target="_blank"}, [Merritt College](http://launch.cccmypath.org/mypath/344?authSource=OpenCCC){:target="_blank"})
 <input type="checkbox" id="{{page.checkbox_class}}-21" class="persisted"> 1. Choose your favorite college in [Peralta colleges application page](https://home.peralta.edu/apply21){:target="_blank"}, complete CCC Apply Application on MyPath.
 <br>
-<input type="checkbox" id="{{page.checkbox_class}}-22" class="persisted"> 2. Peralta College District will response an email including a Campus Solutions Password and Username: <span style="text-decoration: underline; white-space: pre;">                                                                        </span>
+<input type="checkbox" id="{{page.checkbox_class}}-22" class="persisted"> 2. Peralta College District will response an email including a Campus Solutions Password and Username: <span><input type="text" id="{{page.checkbox_class}}-22i" class="persisted" style="width: 15rem; border: 0; outline: 0; border-bottom: 2px solid #0f477e; border-radius: 0px;"></span>.
 <br>
 <input type="checkbox" id="{{page.checkbox_class}}-23" class="persisted"> 3. Enroll classes in [Campus Solutions](https://sa.peralta.edu/psp/PCCDCPRD/?cmd=login){:target="_blank"}
 <br>
