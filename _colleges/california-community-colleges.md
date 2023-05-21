@@ -55,7 +55,7 @@ Chabot College application filing period:  starting October 1.
 <br>
 
 
-<button name="clear-checkboxes" class="btn btn--warning" value="ccc">Reset all above check boxes</button>
+<button name="clear-checkboxes" class="btn btn--warning" value="ccc">Reset all above check boxes and inputs</button>
 
 [SOAR Check list](https://www.chabotcollege.edu/counseling/soar/docs/SOAR%202022%20student%20steps%20handout.pdf){:target="_blank"} from [Chabot College's Student Orientation and Registration (SOAR)](https://www.chabotcollege.edu/counseling/soar/){:target="_blank"}
 {: .notice--success}

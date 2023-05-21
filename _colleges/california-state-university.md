@@ -38,7 +38,7 @@ The largest four-year public university system of our nation with 23 campuses in
 
 ps. For financially challenged families, please apply for Application Fee Waivers.
 
-<button name="clear-checkboxes" class="btn btn--warning" value="csu">Reset all above check boxes</button>
+<button name="clear-checkboxes" class="btn btn--warning" value="csu">Reset all above check boxes and inputs</button>
 
 [Application steps & checklist from CaliforniaColleges.edu](https://www.californiacolleges.edu/#/college-application-checklist){:target="_blank"} 
 {: .notice--success}
